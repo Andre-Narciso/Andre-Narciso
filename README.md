@@ -62,4 +62,4 @@ Se você gostou e quer entrar em contato comigo pode me chamar no:<br>
 
 <a href = "https://www.linkedin.com/in/andré-dimas-narciso-barbosa-030420196/"><img src= "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fwww.clixmarketing.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F02%2Fapp-image-linkedin-logo-2060507.jpg%3Ffit%3D1200%252C798&f=1&nofb=1" width = "150"/><a/>
 <a href = "https://api.whatsapp.com/send?phone=5511984424320"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"  width = "200"/><a/>
-<a href = "malito:andre-dimas@hotmail.com"><img src= "http://s.glbimg.com/po/tt/f/original/2013/02/19/microsoft-outlook-com.jpg"  width = "200"/><a/>
+<a href = "mailto:andre-dimas@hotmail.com"><img src= "http://s.glbimg.com/po/tt/f/original/2013/02/19/microsoft-outlook-com.jpg"  width = "200"/><a/>
