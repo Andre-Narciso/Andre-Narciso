@@ -12,7 +12,7 @@ Abaixo deixo meus certificados até o momento.
 
 ## Python
 
-Python foi meu primeiro contato com o mundo da programação, comecei aprendendo a linguagens na materia de programação da faculdade.
+Python foi meu primeiro contato com o mundo da programação, comecei aprendendo a linguagens na matéria de programação da faculdade.
 
 E esses são meus certificados extracurriculares.
 
@@ -25,7 +25,7 @@ E esses são meus certificados extracurriculares.
 
 ## HTML & CSS
 
-Meu primeiro contato com HTML e CSS foi em um curso que fiz durante minhas férias de 2020 na Danki Code, apesar de ainda estar cursando, já me sinto seguro para colocar meu conhecimento em pratica.
+Meu primeiro contato com HTML e CSS foi em um curso que fiz durante minhas férias de 2020 na Danki Code, apesar de ainda estar cursando, já me sinto seguro para colocar meu conhecimento em prática.
 
 
 <img src= "img/AF593034.jpg" height = "350"/>
@@ -37,14 +37,14 @@ Meu primeiro contato com HTML e CSS foi em um curso que fiz durante minhas féri
 <img src= "img/E2FEB44B.jpg" height = "350"/>
 
 ## Javascript
-Foi a segunda linguagem de programação que tive contato e o primeiro foi na faculdade, ainda estou me desenvolvendo com essa linguagem e acredito que logo vou poder dizer "Eu sei programar em Javascript".
+Foi a segunda linguagem de programação que tive contato e o primeiro foi na faculdade, estou ainda me desenvolvendo com essa linguagem e acredito que logo vou poder dizer "Eu sei programar em Javascript".
 
 <img src= "img/B8C965A1.jpg" height = "350"/>
 
 <img src= "img/34211B26.jpg" height = "350"/><br>
 
 ## Outros
-Desde pequeno sou apaixonado em tecnologia e sempre fui muito curioso no que se refere ao assunto, por isso sempre procuro me aprofundar naquilo que me desperta essa curiosidade e esse topico são desses assuntos, e como todo conhecimento é sempre bem vindo, aqui estão eles.
+Desde pequeno sou apaixonado em tecnologia e sempre fui muito curioso no que se refere ao assunto, por isso sempre procuro me aprofundar naquilo que me desperta essa curiosidade e esse tópico são desses assuntos, e como todo conhecimento é sempre bem-vindo, aqui estão eles.
 
 <img src= "img/F6B06DEB.jpg" height = "350"/>
 
@@ -58,7 +58,7 @@ Desde pequeno sou apaixonado em tecnologia e sempre fui muito curioso no que se 
 
 # Curtiu?
 Esses são meus conhecimentos certificados, estou sempre procurando conteúdos bons para poder estudar e vou estar atualizando sempre este perfil.
-Se vc gostou e quer entrar em contato comigo pode me chamar no<br>
+Se você gostou e quer entrar em contato comigo pode me chamar no:<br>
 
 <a href = "https://www.linkedin.com/in/andré-dimas-narciso-barbosa-030420196/"><img src= "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fwww.clixmarketing.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F02%2Fapp-image-linkedin-logo-2060507.jpg%3Ffit%3D1200%252C798&f=1&nofb=1" width = "150"/><a/>
 <a href = "https://api.whatsapp.com/send?phone=5511984424320"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"  width = "200"/><a/>
