@@ -46,22 +46,20 @@ Foi a segunda linguagem de programação que tive contato e o primeiro foi na fa
 ## Outros
 Desde pequeno sou apaixonado em tecnologia e sempre fui muito curioso no que se refere ao assunto, por isso sempre procuro me aprofundar naquilo que me desperta essa curiosidade e esse topico são desses assuntos, e como todo conhecimento é sempre bem vindo, aqui estão eles.
 
-<img src= "F6B06DEB.jpg" height = "350"/>
+<img src= "img/F6B06DEB.jpg" height = "350"/>
 
-<img src= "7A3D8FFF.jpg" height = "350"/><br>
+<img src= "img/7A3D8FFF.jpg" height = "350"/><br>
 
-<img src= "2F694561.jpg" height = "350"/><br>
+<img src= "img/2F694561.jpg" height = "350"/><br>
 
-<img src= "Introduction to Cybersecurity.jpg" height = "350"/><br>
+<img src= "img/Introduction to Cybersecurity.jpg" height = "350"/><br>
 
-<img src= "NDG Linux Unhatched.jpg" height = "350"/>
+<img src= "img/NDG Linux Unhatched.jpg" height = "350"/>
 
 # Curtiu?
 Esses são meus conhecimentos certificados, estou sempre procurando conteúdos bons para poder estudar e vou estar atualizando sempre este perfil.
 Se vc gostou e quer entrar em contato comigo pode me chamar no<br>
 
-<div style = "display: flex; justify-content: space-around; align-items: center">
 <a href = "https://www.linkedin.com/in/andré-dimas-narciso-barbosa-030420196/"><img src= "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fwww.clixmarketing.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F02%2Fapp-image-linkedin-logo-2060507.jpg%3Ffit%3D1200%252C798&f=1&nofb=1" width = "150"/><a/>
-<a href = "https://api.whatsapp.com/send?phone=5511984424320"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png" height = ""  width = "200"/><a/>
-<a href = "https://api.whatsapp.com/send?phone=5511984424320"><img src= "http://s.glbimg.com/po/tt/f/original/2013/02/19/microsoft-outlook-com.jpg" height = ""  width = "200"/><a/>
-</div>
+<a href = "https://api.whatsapp.com/send?phone=5511984424320"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"  width = "200"/><a/>
+<a href = "https://api.whatsapp.com/send?phone=5511984424320"><img src= "http://s.glbimg.com/po/tt/f/original/2013/02/19/microsoft-outlook-com.jpg"  width = "200"/><a/>
