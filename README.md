@@ -42,28 +42,28 @@ Meu primeiro contato com HTML e CSS foi em um curso que fiz durante minhas féri
 ## Javascript
 Foi a segunda linguagem de programação que tive contato e o primeiro foi na faculdade, estou ainda me desenvolvendo com essa linguagem e acredito que logo vou poder dizer "Eu sei programar em Javascript".
 
-<img src= "Cerificados\DIO\JavaScript\ES6_essencial.png" height = "350"/>
+<img src= "/Cerificados/DIO/JavaScript/ES6_essencial.png" height = "350"/>
 
-<img src= "Cerificados\DIO\JavaScript\JS_basico.png" height = "350"/><br>
+<img src= "/Cerificados/DIO/JavaScript/JS_basico.png" height = "350"/><br>
 
 ## Outros
 Desde pequeno sou apaixonado em tecnologia e sempre fui muito curioso no que se refere ao assunto, por isso sempre procuro me aprofundar naquilo que me desperta essa curiosidade e esse tópico são desses assuntos, e como todo conhecimento é sempre bem-vindo, aqui estão eles.
 
-<img src= "Cerificados\DIO\Estrutura_de_dados_e_algoritmos.png" height = "350"/>
+<img src= "/Cerificados/DIO/Estrutura_de_dados_e_algoritmos.png" height = "350"/>
 
-<img src= "Cerificados\DIO\Introdução_Git_e_GitHub.png" height = "350"/><br>
+<img src= "/Cerificados/DIO/Introdução_Git_e_GitHub.png" height = "350"/><br>
 
-<img src= "Cerificados\DIO\Logica_de_programação.png" height = "350"/><br>
+<img src= "/Cerificados/DIO/Logica_de_programação.png" height = "350"/><br>
 
-<img src= "Cerificados\CISCO\Introduction to Cybersecurity.jpg" height = "350"/><br>
+<img src= "/Cerificados/CISCO/Introduction to Cybersecurity.jpg" height = "350"/><br>
 
-<img src= "Cerificados\CISCO\NDG Linux Unhatched.jpg" height = "350"/><br>
+<img src= "/Cerificados/CISCO/NDG Linux Unhatched.jpg" height = "350"/><br>
 
-<img src= "Cerificados\FIAP\Design Thinking.png" height = "350"/><br>
+<img src= "/Cerificados/FIAP/Design Thinking.png" height = "350"/><br>
 
-<img src= "Cerificados\FIAP\DevOps.png" height = "350"/><br>
+<img src= "/Cerificados/FIAP/DevOps.png" height = "350"/><br>
 
-<img src= "Cerificados\FIAP\Mobile Marketing.png" height = "350"/>
+<img src= "/Cerificados/FIAP/Mobile Marketing.png" height = "350"/>
 
 # Curtiu?
 Esses são meus conhecimentos certificados, estou sempre procurando conteúdos bons para poder estudar e vou estar atualizando sempre este perfil.
