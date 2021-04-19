@@ -2,7 +2,7 @@
 
 Olá, me chamo <b>André Dimas Narciso Barbosa</b>.
 <br>
-Tenho 20 anos e estudo Sistemas de Informação na [Faculdade Impacta de Tecnologia](https://impacta.edu.br) e sou apaixonado na área de tecnologia, principalmente em programação.
+Tenho 20 anos, estudo Sistemas de Informação na [Faculdade Impacta de Tecnologia](https://impacta.edu.br) e sou apaixonado na área de tecnologia, principalmente em programação.
 
 # Certificações
 
@@ -16,45 +16,54 @@ Python foi meu primeiro contato com o mundo da programação, comecei aprendendo
 
 E esses são meus certificados extracurriculares.
 
+<img src= "/Cerificados/FIAP/Python.png" height = "350"/>
 
-<img src= "img/4CD7BDAD.jpg" height = "350"/>
+<img src= "/Cerificados/DIO/Python/libPandas.jpg" height = "350"/><br>
 
-<img src= "img/E452E644.jpg" height = "350"/><br>
+<img src= "/Cerificados/DIO/Python/portScanner.jpg" height = "350"/><br>
 
-<img src= "img/05CEA53C.jpg" height = "350"/>
+<img src= "/Cerificados/DIO/Python/Stransform.jpg" height = "350"/>
 
 ## HTML & CSS
 
 Meu primeiro contato com HTML e CSS foi em um curso que fiz durante minhas férias de 2020 na Danki Code, apesar de ainda estar cursando, já me sinto seguro para colocar meu conhecimento em prática.
 
 
-<img src= "img/AF593034.jpg" height = "350"/>
+<img src= "/Cerificados/DIO/HTML & CSS/Copia_Instagram.jpg" height = "350"/>
 
-<img src= "img/539B99BF.jpg" height = "350"/><br>
+<img src= "/Cerificados/DIO/HTML & CSS/Copia_Netflix.jpg" height = "350"/><br>
 
-<img src= "img/A4EBBE3C.jpg" height = "350"/><br>
+<img src= "/Cerificados/DIO/HTML & CSS/Introdução_a_criação_de_sites.jpg" height = "350"/><br>
 
-<img src= "img/E2FEB44B.jpg" height = "350"/>
+<img src= "/Cerificados/DIO/HTML & CSS/Responsividade&UX.jpg" height = "350"/><br>
+
+<img src= "/Cerificados/DIO/HTML & CSS/menu_hamburguer.jpg" height = "350"/>
 
 ## Javascript
 Foi a segunda linguagem de programação que tive contato e o primeiro foi na faculdade, estou ainda me desenvolvendo com essa linguagem e acredito que logo vou poder dizer "Eu sei programar em Javascript".
 
-<img src= "img/B8C965A1.jpg" height = "350"/>
+<img src= "Cerificados\DIO\JavaScript\ES6_essencial.png" height = "350"/>
 
-<img src= "img/34211B26.jpg" height = "350"/><br>
+<img src= "Cerificados\DIO\JavaScript\JS_basico.png" height = "350"/><br>
 
 ## Outros
 Desde pequeno sou apaixonado em tecnologia e sempre fui muito curioso no que se refere ao assunto, por isso sempre procuro me aprofundar naquilo que me desperta essa curiosidade e esse tópico são desses assuntos, e como todo conhecimento é sempre bem-vindo, aqui estão eles.
 
-<img src= "img/F6B06DEB.jpg" height = "350"/>
+<img src= "Cerificados\DIO\Estrutura_de_dados_e_algoritmos.png" height = "350"/>
 
-<img src= "img/7A3D8FFF.jpg" height = "350"/><br>
+<img src= "Cerificados\DIO\Introdução_Git_e_GitHub.png" height = "350"/><br>
 
-<img src= "img/2F694561.jpg" height = "350"/><br>
+<img src= "Cerificados\DIO\Logica_de_programação.png" height = "350"/><br>
 
-<img src= "img/Introduction to Cybersecurity.jpg" height = "350"/><br>
+<img src= "Cerificados\CISCO\Introduction to Cybersecurity.jpg" height = "350"/><br>
 
-<img src= "img/NDG Linux Unhatched.jpg" height = "350"/>
+<img src= "Cerificados\CISCO\NDG Linux Unhatched.jpg" height = "350"/><br>
+
+<img src= "Cerificados\FIAP\Design Thinking.png" height = "350"/><br>
+
+<img src= "Cerificados\FIAP\DevOps.png" height = "350"/><br>
+
+<img src= "Cerificados\FIAP\Mobile Marketing.png" height = "350"/>
 
 # Curtiu?
 Esses são meus conhecimentos certificados, estou sempre procurando conteúdos bons para poder estudar e vou estar atualizando sempre este perfil.
